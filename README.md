@@ -12,8 +12,8 @@ Deployed on Vercel
 
 🌍 Live Demo
 
-🔗 Live URL: https://your-app-name.vercel.app
-🔗 GitHub Repo: https://github.com/your-username/smart-bookmark-app
+🔗 Live URL: https://bookmark-black-zeta.vercel.app/
+🔗 GitHub Repo: https://github.com/logachan/Bookmark
 
 ✨ Features
 
